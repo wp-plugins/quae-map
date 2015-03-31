@@ -1,0 +1,39 @@
+.quae_map_container {
+  width: 100%;
+  height: 350px;
+}
+
+.quae_map_tootltip {
+  display: none;
+}
+
+.quae_map_marker_title {
+  font-weight: 700;
+  border-bottom: 1px solid #222;
+  padding-bottom: 6px;
+  margin-bottom: 12px; 
+}
+
+.quae_map_container img {
+  max-width: none;
+}
+
+.widget .quae_map_container {
+  width: 100%;
+  height: 300px;
+}
+
+.widget .quae_map_tootltip {
+  display: none;
+}
+
+.widget .quae_map_marker_title {
+  font-weight: 700;
+  border-bottom: 1px solid #222;
+  padding-bottom: 6px;
+  margin-bottom: 12px; 
+}
+
+.widget .quae_map_container img {
+  max-width: none;
+}

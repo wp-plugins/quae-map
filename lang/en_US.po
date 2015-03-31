@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quae_map 1.0\n"
+"POT-Creation-Date: 2015-03-28 18:09+0100\n"
+"PO-Revision-Date: 2015-03-28 22:29+0100\n"
+"Last-Translator: Dorota Tomalska <<dt@3a.pl>>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../inc\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/widget-fields.php:2
+msgid "Title"
+msgstr "Title"
+
+#: ../inc/widget-fields.php:6
+msgid "Address"
+msgstr "Address"
+
+#: ../inc/widget-fields.php:10
+msgid "Lat, Lon"
+msgstr "Lat, Lon"
+
+#: ../inc/widget-fields.php:14
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../inc/widget-fields.php:18
+msgid "Show zoom control"
+msgstr "Show zoom control"
+
+#: ../inc/widget-fields.php:22
+msgid "Show map type control"
+msgstr "Show map type control"
+
+#: ../inc/widget-fields.php:26
+msgid "Show scale control"
+msgstr "Show scale control"
+
+#: ../inc/widget-fields.php:30
+msgid "Show street view control"
+msgstr "Show street view control"
+
+#: ../inc/widget-fields.php:34
+msgid "Bouncing marker"
+msgstr "Bouncing marker"
+
+#: ../inc/widget-fields.php:38
+msgid "Show info window"
+msgstr "Show info window"
+
+#: ../inc/widget-fields.php:42
+msgid "Info window title"
+msgstr "Info window title"
